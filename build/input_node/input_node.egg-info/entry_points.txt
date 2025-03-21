@@ -1,0 +1,2 @@
+[console_scripts]
+input_node = input_node.input_node:main

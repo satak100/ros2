@@ -1,0 +1,21 @@
+[1.586s] Invoking command in '/home/satak/ros2_workspace/src/input_node': PYTHONPATH=/home/satak/ros2_workspace/build/input_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/satak/ros2_workspace/install/input_node/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/input_node build --build-base /home/satak/ros2_workspace/build/input_node/build install --record /home/satak/ros2_workspace/build/input_node/install.log --single-version-externally-managed install_data
+[1.895s] running egg_info
+[1.919s] writing ../../build/input_node/input_node.egg-info/PKG-INFO
+[1.920s] writing dependency_links to ../../build/input_node/input_node.egg-info/dependency_links.txt
+[1.921s] writing entry points to ../../build/input_node/input_node.egg-info/entry_points.txt
+[1.921s] writing requirements to ../../build/input_node/input_node.egg-info/requires.txt
+[1.921s] writing top-level names to ../../build/input_node/input_node.egg-info/top_level.txt
+[1.969s] reading manifest file '../../build/input_node/input_node.egg-info/SOURCES.txt'
+[1.970s] writing manifest file '../../build/input_node/input_node.egg-info/SOURCES.txt'
+[1.971s] running build
+[1.971s] running build_py
+[1.971s] running install
+[1.977s] running install_lib
+[2.002s] running install_data
+[2.003s] running install_egg_info
+[2.028s] removing '/home/satak/ros2_workspace/install/input_node/lib/python3.12/site-packages/input_node-0.0.0-py3.12.egg-info' (and everything under it)
+[2.029s] Copying ../../build/input_node/input_node.egg-info to /home/satak/ros2_workspace/install/input_node/lib/python3.12/site-packages/input_node-0.0.0-py3.12.egg-info
+[2.030s] running install_scripts
+[2.193s] Installing input_node script to /home/satak/ros2_workspace/install/input_node/lib/input_node
+[2.193s] writing list of installed files to '/home/satak/ros2_workspace/build/input_node/install.log'
+[2.239s] Invoked command in '/home/satak/ros2_workspace/src/input_node' returned '0': PYTHONPATH=/home/satak/ros2_workspace/build/input_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/satak/ros2_workspace/install/input_node/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/input_node build --build-base /home/satak/ros2_workspace/build/input_node/build install --record /home/satak/ros2_workspace/build/input_node/install.log --single-version-externally-managed install_data

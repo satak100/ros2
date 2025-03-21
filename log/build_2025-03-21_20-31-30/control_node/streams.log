@@ -1,0 +1,24 @@
+[1.593s] Invoking command in '/home/satak/ros2_workspace/src/control_node': PYTHONPATH=/home/satak/ros2_workspace/build/control_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/satak/ros2_workspace/install/control_node/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/control_node build --build-base /home/satak/ros2_workspace/build/control_node/build install --record /home/satak/ros2_workspace/build/control_node/install.log --single-version-externally-managed install_data
+[1.909s] running egg_info
+[1.934s] writing ../../build/control_node/control_node.egg-info/PKG-INFO
+[1.934s] writing dependency_links to ../../build/control_node/control_node.egg-info/dependency_links.txt
+[1.935s] writing entry points to ../../build/control_node/control_node.egg-info/entry_points.txt
+[1.935s] writing requirements to ../../build/control_node/control_node.egg-info/requires.txt
+[1.935s] writing top-level names to ../../build/control_node/control_node.egg-info/top_level.txt
+[1.984s] reading manifest file '../../build/control_node/control_node.egg-info/SOURCES.txt'
+[1.986s] writing manifest file '../../build/control_node/control_node.egg-info/SOURCES.txt'
+[1.986s] running build
+[1.986s] running build_py
+[1.986s] copying control_node/control_node.py -> /home/satak/ros2_workspace/build/control_node/build/lib/control_node
+[1.986s] running install
+[1.993s] running install_lib
+[2.018s] copying /home/satak/ros2_workspace/build/control_node/build/lib/control_node/control_node.py -> /home/satak/ros2_workspace/install/control_node/lib/python3.12/site-packages/control_node
+[2.019s] byte-compiling /home/satak/ros2_workspace/install/control_node/lib/python3.12/site-packages/control_node/control_node.py to control_node.cpython-312.pyc
+[2.020s] running install_data
+[2.020s] running install_egg_info
+[2.047s] removing '/home/satak/ros2_workspace/install/control_node/lib/python3.12/site-packages/control_node-0.0.0-py3.12.egg-info' (and everything under it)
+[2.048s] Copying ../../build/control_node/control_node.egg-info to /home/satak/ros2_workspace/install/control_node/lib/python3.12/site-packages/control_node-0.0.0-py3.12.egg-info
+[2.050s] running install_scripts
+[2.213s] Installing control_node script to /home/satak/ros2_workspace/install/control_node/lib/control_node
+[2.213s] writing list of installed files to '/home/satak/ros2_workspace/build/control_node/install.log'
+[2.275s] Invoked command in '/home/satak/ros2_workspace/src/control_node' returned '0': PYTHONPATH=/home/satak/ros2_workspace/build/control_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/satak/ros2_workspace/install/control_node/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/control_node build --build-base /home/satak/ros2_workspace/build/control_node/build install --record /home/satak/ros2_workspace/build/control_node/install.log --single-version-externally-managed install_data
